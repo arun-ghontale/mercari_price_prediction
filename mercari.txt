@@ -1,9 +1,10 @@
->> item condition - either ordinal or categorical:
+>> item condition - either ordinal or categorical :
 First try ohe and then try ordinal
 
 >> shipping - binary
 
 >> category(like women and men) - response coding & DT encoding & feature binning:
+
 1200 odd unique categories
 
 >> brand name() - response coding & DT encoding & feature binning
