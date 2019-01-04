@@ -1,0 +1,26 @@
+>> item condition - either ordinal or categorical:
+First try ohe and then try ordinal
+
+>> shipping - binary
+
+>> category(like women and men) - response coding & DT encoding & feature binning:
+1200 odd unique categories
+
+>> brand name() - response coding & DT encoding & feature binning
+4800 unique categories
+
+>> description: topic modelling, word count and text featurizations
+
+
+week1:
+1a. Base model with one hot encoding.
+1b. Use random forest to obtain the feature importances.
+
+2. Add text featurzation to the base model and see if it works.
+analysis:
+what percent of words are present in each
+a. fastext 
+b. word2vec
+c. Glove
+
+3. if it gets done soon start with response coding.
